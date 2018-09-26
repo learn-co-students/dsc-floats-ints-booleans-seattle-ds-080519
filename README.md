@@ -5,6 +5,7 @@
 So, we know that we have a type for representing text, the String. But what if we want to represent other types of data, like Numbers? We are data scientists after all, and we'll be working with numbers a lot. In this lesson, we'll introduce both Numbers and Booleans, which are other data types we will frequently use in Python.
 
 ## Objectives
+You will be able to:
 * Understand, explain and use the correct data types (numeric types) for various types of information
 
 ## What Are Numeric Data Types?
