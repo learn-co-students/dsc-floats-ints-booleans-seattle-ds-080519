@@ -45,7 +45,7 @@ Python is simply indicating that a number without a decimal is called an `int` f
 
 As we can see in the above example, the `float`, `0.75`, plus the `int`, `10`, resolves to the `float`, `10.75`. So, a `float` combined with an `int` returns a number that is a `float`.
 
-## What is a boolean?
+## What is a Boolean?
 
 A Boolean (`bool`) has two possible values: **True** or **False**.
 
@@ -75,7 +75,7 @@ And as you might imagine, a boolean can be returned from a math operation as wel
 
 You will see later on that by utilizing these returned booleans, we can make decisions with our code. For example: send this email if a user's last name is Simpson, or send an invite if the user is in a target age group. We aren't there yet, but we'll get there!
 
-## Data Types As A Choice
+## Data Types as a Choice
 
 > "Bad programmers worry about the code. Good programmers worry about data structures and their relationships." - Torvald 
 
@@ -145,7 +145,7 @@ bool(0)
 
 Great, so we can coerce a number to a boolean as well.  And we are beginning to think about keeping our data in one form or another based on what we want to do with that data.    
 
-### Summary
+## Summary
 
 In this section, we introduced two new types of data: numbers and booleans. We saw that numbers allow us to perform standard math operations, and we saw that booleans answer whether something is True or False, and serve as a way our program or different methods can respond to questions.
 
