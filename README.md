@@ -88,7 +88,7 @@ For now, it's interesting to think of how methods allow us to change between dat
 
 We could make the argument that in certain contexts, like an address, 34 is text. In others, when we are judging distance in blocks it feels like a number. So how do we decide?  
 
-The answer is by really thinking about what we want to do with the data. If we want to capitalize all of the words in the string, to mail a letter (which I admit, sounds awful), we should keep the data in the format of a string.
+We find the answer to that by thinking about what we want to do with the data. If we want to capitalize all of the words in the string, to mail a letter (which I admit, sounds awful), we should keep the data in the format of a string.
 
 
 ```python
