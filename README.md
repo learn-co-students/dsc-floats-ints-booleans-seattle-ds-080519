@@ -77,7 +77,7 @@ You will see later on that by utilizing these returned booleans, we can make dec
 
 ## Data Types as a Choice
 
-> "Bad programmers worry about the code. Good programmers worry about data structures and their relationships." - Torvald 
+> "Bad programmers worry about the code. Good programmers worry about data structures and their relationships." - Linus Torvalds
 
 For now, it's interesting to think of how methods allow us to change between datatypes and to think of when we may want our data to be in one datatype versus another.  We started this lesson by saying that 34 is a number.  But what if it's not?
 
