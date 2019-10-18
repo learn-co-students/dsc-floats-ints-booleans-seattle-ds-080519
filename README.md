@@ -6,7 +6,11 @@ So, we know that we have a type for representing text, the String. But what if w
 
 ## Objectives
 You will be able to:
-* Understand, explain and use the correct data types (numeric types) for various types of information
+
+* Use different numeric data types
+* Distinguish the difference between numeric data types
+* Perform basic mathematical operations with numeric data types
+* Use Boolean data types
 
 ## What Are Numeric Data Types?
 
@@ -77,9 +81,9 @@ You will see later on that by utilizing these returned booleans, we can make dec
 
 ## Data Types as a Choice
 
-> "Bad programmers worry about the code. Good programmers worry about data structures and their relationships." - Linus Torvalds
+> "Bad programmers worry about the code. Good programmers worry about data structures and their relationships." -- Linus Torvalds
 
-For now, it's interesting to think of how methods allow us to change between datatypes and to think of when we may want our data to be in one datatype versus another.  We started this lesson by saying that 34 is a number.  But what if it's not?
+For now, it's interesting to think of how methods allow us to change between data types and to think of when we may want our data to be in one data type versus another.  We started this lesson by saying that 34 is a number.  But what if it's not?
 
 
 ```python
@@ -147,6 +151,6 @@ Great, so we can coerce a number to a boolean as well.  And we are beginning to 
 
 ## Summary
 
-In this section, we introduced two new types of data: numbers and booleans. We saw that numbers allow us to perform standard math operations, and we saw that booleans answer whether something is True or False, and serve as a way our program or different methods can respond to questions.
+In this section, we introduced two new types of data: numbers and booleans. We saw that numbers allow us to perform standard math operations and we saw that booleans answer whether something is True or False, and serve as a way our program or different methods can respond to questions.
 
-We have seen almost all of our Python datatypes. We talked about how to choose a datatype, and how to switch between datatypes.  We said that we choose a datatype based on the capabilities that we want to give to that data: should it answer whether it is larger or smaller, or does it make sense to capitalize? The goal of this discussion is to begin thinking about why we decide to put data in specific types (i.e. string, number, boolean). We also introduced coercion methods like `bool` and `str` that switch between datatypes. 
+We have seen almost all of our Python data types. We talked about how to choose a data type, and how to switch between data types.  We said that we choose a data type based on the capabilities that we want to give to that data: should it answer whether it is larger or smaller, or does it make sense to capitalize? The goal of this discussion is to begin thinking about why we decide to put data in specific types (i.e. string, number, boolean). We also introduced coercion methods like `bool` and `str` that switch between data types. 
